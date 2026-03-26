@@ -50,7 +50,7 @@ student-admission-analysis/
 ## ⚙️ Installation
 
 1. Clone the repository
-   git clone https://github.com/your-username/student-admission-analysis.git
+   git clone https://github.com/yashvanth007/student-admission-analysis.git
 
 2. Navigate to project
    cd student-admission-analysis
